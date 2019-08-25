@@ -1,6 +1,5 @@
 # gcalendar_clone
-
-A new Flutter application.
+Clone of google calendar UI.
 
 ## Getting Started
 
